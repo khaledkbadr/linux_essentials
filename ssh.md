@@ -1,3 +1,6 @@
+# Checking the ssh connection:
+* `echo $SSH_CONNECTION`
+
 # Configure the SSH Client
 * `hostname`: print the hostname
 * `ssh`:
